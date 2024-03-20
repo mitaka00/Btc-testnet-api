@@ -1,0 +1,5 @@
+### Get last block
+GET http://localhost:3000/block/lastBlock
+
+###Get transaction by hash
+GET http://localhost:3000/block/transaction/249032336c087513eef1d98bead96fe61e3956370b3cc86ecf6c8f846a727a1c
